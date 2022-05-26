@@ -25,6 +25,8 @@ Automation engineer undergraduate but fell in love and wanted to get more of the
 :us: English | :de: Deutsch | :es: Español | :brazil: Português
 
 Fun fact: I'm probably a cat guy :cat:
+
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 <!--
 **fMagVen/fMagVen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
