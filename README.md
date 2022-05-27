@@ -31,7 +31,7 @@ Fun fact: I'm probably a cat guy :cat:
 ##
 
 [![fMagVen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fMagVen&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![fMagVen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fMagVen&layout=compact&langs_count=6&theme=blue-green&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+[![fMagVen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fMagVen&layout=compact&langs_count=6&theme=blue-green&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 <!--
