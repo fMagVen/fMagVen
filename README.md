@@ -15,15 +15,23 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## :man_technologist: Also find me on
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe-Ventura?style=flat&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/fmagven/)](https://www.linkedin.com/in/fmagven/)
-[![Gmail Badge](https://img.shields.io/badge/-fmagven93@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fmagven93@gmail.com)](mailto:fmagven93@gmail.com)
+## :raising_hand_man: About me
 
 Automation engineer undergraduate but fell in love and wanted to get more of the art of coding, problem solving and solution providing, so joined a full-stack software engineer bootcamp at Driven Education. Here you'll find most of the projects I made at the bootcamp and more.
 
 :us: English | :de: Deutsch | :es: Español | :brazil: Português
 
 Fun fact: I'm probably a cat guy :cat:
+
+## :man_technologist: Also find me on
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe_Ventura-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fmagven/)](https://www.linkedin.com/in/fmagven/)
+[![Gmail Badge](https://img.shields.io/badge/-fmagven93@gmail.com-bb001b?style=flat&logo=Gmail&logoColor=white&link=mailto:fmagven93@gmail.com)](mailto:fmagven93@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-@fmagven-2e4392?style=flat&logo=Telegram&logoColor=white&link=https://t.me/fmagven)](https://t.me/fmagven)
+
+##
+
+[![fMagVen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fMagVen&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![fMagVen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fMagVen&layout=compact&langs_count=6&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 <!--
