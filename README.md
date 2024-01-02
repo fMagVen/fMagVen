@@ -19,7 +19,7 @@
 
 
 ## :man_technologist: Also find me on
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe_Ventura-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fmagven/)](https://www.linkedin.com/in/fmagven/)
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe_Ventura-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-m-ventura/)](https://www.linkedin.com/in/felipe-m-ventura/)
 [![Gmail Badge](https://img.shields.io/badge/-fmagven93@gmail.com-bb001b?style=flat&logo=Gmail&logoColor=white&link=mailto:fmagven93@gmail.com)](mailto:fmagven93@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@fmagven-2e4392?style=flat&logo=Telegram&logoColor=white&link=https://t.me/fmagven)](https://t.me/fmagven)
 
